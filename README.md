@@ -9,10 +9,17 @@
 
 ## ⬇️ Table of Contents
 
+* [App Preview](#--app-preview)
 * [Set-Up](#-set-up)
-* [Display Examples](#--display-examples)
 * [Resources](#-resources)
-* [Collaborators](#-collaborators)
+* [License Info](#-license)
+
+## 💻  App Preview
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="readme_resources/lowkations-demo.png" alt="Device Screenshots of Lowkations" title="Device Screenshots of Lowkations" width="500"/>
+    <img src="readme_resources/lowkations-stack.png" alt="Tech Stack of Lowkations" title="Tech Stack of Lowkations" width="500"/>
+</div>
 
 ## 🔨 Set-Up
 
@@ -42,23 +49,13 @@
     2. http://localhost:3000/search navigates to search
     3. http://localhost:3000/location navigates to location
 
-## 💻  Display Examples
-![lowkations home page](https://github.com/SaqifAbrar/project-lowkation/blob/main/readme_resources/browser-homepage-example.gif)
+## 📚 Resources
 
-## 📄 Resources
-
-Resources may not be avaible after Map Hack 2021 judging (12/19/2021)
-* [GitHub](https://github.com/SaqifAbrar/project-lowkation) 
+We welcome contributions from the community. If you'd like to contribute, please fork the repository and create a pull request with your changes.
+* [GitHub](https://github.com/rithik-c/Lowkations) 
 * [DevPost](https://devpost.com/software/project-lowkey) 
 * [Figma](https://www.figma.com/file/PLrYtdabfmb6MV1KQWwpqE/MapHacks---LowKation?node-id=24%3A603)
 
+## 📄 License
 
-## 👥 Collaborators
-
-| Name | GitHub | Linkedin |
-| ------ | ------ | ------ | 
-| Saqif Abrar| [saqifabrar](https://www.github.com/SaqifAbrar) | [saqifabrar](https://www.linkedin.com/in/saqifabrar/) |
-| Lavan James | [LAVANNNJAMES](https://github.com/LAVANNNJAMES) |  |
-| Rithik Choudhary | [rithik-c](https://github.com/rithik-c) | [rithik-c](https://www.linkedin.com/in/rithik-c/) |
-| Zaza Hashmi | [Kayeris](https://github.com/Kayeris) | [shaiza-hashmi](https://www.linkedin.com/in/shaiza-hashmi/) |
-| Ibrahim Rather | [irather](https://github.com/irather) | [ibrahim-rather](https://www.linkedin.com/in/ibrahim-rather/) |
+Lowkations is freely available under the MIT license.
